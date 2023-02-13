@@ -1,1 +1,1 @@
-my first readme file for the devops alx project
+readme file at the root f the repo folder
